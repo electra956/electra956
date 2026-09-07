@@ -1,157 +1,63 @@
-# 👋 Hi, I'm Aditya
+# 🛡️ About Me
 
-🛡️ Security Researcher focused on **Application Security, AI Security, and Vulnerability Research**.
+Security Researcher focused on **Application Security, AI Security & Vulnerability Research**.
 
-I use this space to build security tools, experiment with attack and defense techniques,
-research vulnerabilities, and document what I learn.
-
----
-
-## 🔬 What I Work On
-
-- 🔐 Application Security
-- 🤖 AI & Agentic AI Security
-- 🌐 Web & API Security
-- 🧪 Vulnerability Research
-- 🐞 Bug Bounty Research
-- ☁️ Cloud & Container Security
-- ⚙️ DevSecOps & CI/CD Security
-- 🔎 Threat Intelligence & CVE Research
+I build security labs, research vulnerabilities, and experiment with
+attack & defense techniques across Web, API, Cloud and AI systems.
 
 ---
 
-## 🚀 Current Focus
+## 🔬 Focus
 
-### 🤖 AI & Agentic AI Security
+`AppSec` `AI Security` `Vulnerability Research` `Bug Bounty`
 
-Currently exploring security risks in LLM-powered applications
-and Agentic AI systems.
-
-Areas of interest:
-
-- Prompt Injection
-- RAG Security
-- AI Agent Security
-- Tool Security
-- Memory & Context Security
-- Multi-Agent Security
-- MCP Security
-- Agentic AI Threat Modeling
+`Web/API Security` `CCA` `AWS` `Azure` `DevSecOps` `Threat Research`
 
 ---
 
-## 🛡️ Application Security
+## 💻 Tech Stack
 
-My security work includes:
-
-- Web Application Security
-- API Security
-- Authentication & Authorization
-- Injection Vulnerabilities
-- Secure Code Review
-- SAST / SCA / DAST
-- Vulnerability Research
-- Security Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
+![Semgrep](https://img.shields.io/badge/Semgrep-0B0B0B?style=flat-square)
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## ☁️ Cloud Security
 
-- AWS
-- Docker
-- Kubernetes
-- IAM
-- Cloud Security
-- Container Security
-- CI/CD Security
+`CCA (Cloud Configuration Audit)` `AWS` `Azure`
+
+`IAM` `S3` `EC2` `VPC` `Lambda` `Secrets Manager`
+
+`Docker` `Kubernetes`
 
 ---
 
-## 🛠️ Security Toolkit
+## 🚀 Current Project
 
-### Security
+### 🛡️ VulNet AI Agent Security Lab
 
-`Burp Suite` `Fortify` `SonarQube` `OWASP ZAP`
+A local security research lab for exploring **OWASP Agentic AI security**, RAG,
+multi-agent workflows, MCP and simulated attack scenarios.
 
-`Semgrep` `Trivy` `Gitleaks` `Nmap`
-
-`Wireshark` `SQLMap` `Metasploit`
-
-### Development
-
-`Python` `JavaScript` `Java` `PHP` `Bash`
-
-### Security Engineering
-
-`SAST` `SCA` `DAST` `MITRE ATT&CK`
-
-`CVE Research` `Threat Modeling` `Secure Code Review`
+[View Project →](https://github.com/electra956/VulNet-AI-Agent-Security-Lab)
 
 ---
 
-## 🔬 Featured Research
+## 🧪 Research
 
-### VulNet AI Agent Security Lab
+> **Build it. Break it. Understand it. Secure it.**
 
-A safe, local educational environment for exploring security risks
-in Agentic AI systems.
-
-The lab focuses on:
-
-- OWASP Top 10 for Agentic Applications
-- RAG security
-- Prompt injection
-- Multi-agent workflows
-- MCP security
-- Tool misuse
-- Agent communication
-- Memory poisoning
-- Secure vs. vulnerable agent behavior
-
-👉 [View the project](https://github.com/electra956/VulNet-AI-Agent-Security-Lab)
+Web • API • Cloud • AI • Agentic AI
 
 ---
 
-## 🧪 Research Philosophy
+## 🌐 Connect
 
-> Build it. Break it. Understand it. Secure it.
-
-I use GitHub as a research notebook for security experiments,
-proof-of-concepts, automation, labs, and technical documentation.
-
-The goal is not just to identify vulnerabilities,
-but to understand **why they happen and how to prevent them.**
-
----
-
-## 📚 Security Areas
-
-```text
-Application Security
-├── Web Security
-├── API Security
-├── Authentication & Authorization
-├── Secure Code Review
-├── SAST / SCA / DAST
-└── Vulnerability Research
-
-AI Security
-├── LLM Security
-├── Prompt Injection
-├── RAG Security
-├── AI Agent Security
-├── Tool Security
-├── Memory / Context Security
-└── Agentic AI Threat Modeling
-
-Cloud Security
-├── AWS
-├── IAM
-├── Containers
-└── Kubernetes
-
-Connect
-💼 LinkedIn
-🐙 GitHub
-
-🛡️ Security is a continuous process of learning, breaking, and improving.
+[LinkedIn](https://www.linkedin.com/in/electra956) •
+[GitHub](https://github.com/electra956)
